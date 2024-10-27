@@ -16,7 +16,8 @@ Integration: Integrate with other systems such as email, calendar, and third-par
 
 (`bash
 Copy code
-git clone https://github.com/username/crm-system.git`)
+git clone  https://github.com/Abdilahi1/Customer-Relationship-Management-CRM-.git
+`)
 
 ### Navigate to the Project Directory:
 
